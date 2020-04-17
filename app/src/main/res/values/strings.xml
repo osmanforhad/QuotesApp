@@ -1,3 +1,75 @@
 <resources>
     <string name="app_name">QuotesApp</string>
+    <!-- making array for storing Quotes -->
+    <string-array name="popularQuote">
+        <item>“When you grow up you tend to get told that the world is the way it is and
+            your life is just to live your life inside the world. Try not to bash into the walls
+            too much. Try to have a nice family life, have fun, save a little money.
+            That’s a very limited life. Life can be much broader once you discover one simple fact:
+            Everything around you that you call life was made up by people that were no smarter than
+            you. And you can change it, you can influence it… Once you learn that, you’ll never
+            be the same again.”
+            ― Steve Jobs</item>
+        <item>“Thinking is progress. Non-thinking is stagnation of the individual, organization and
+            the country. Thinking leads to action. Knowledge without action is useless and
+            irrelevant. Knowledge with action converts adversity into prosperity.”
+            — Dr. A.P.J. Abdul Kalam</item>
+        <item>It is impossible to live without failing at something, unless you live so cautiously
+            that you might as well not have lived at all, in which case you have failed by default.
+            — J. K. Rowling</item>
+        <item>“I do think it’s important to follow your dreams and do something which you are
+            excited by. If you follow your heart and do what you like, you will always do much
+            better. It doesn’t matter what your educational qualification is.”
+            — Sundar Pichai</item>
+        <item>এই শহরে জোনাকি নেই
+              সন্ধে হয় হলুদ নিয়নে
+              এই আধারে আলো নেই
+              ভুলের চিঠি আসে পিয়নে
+              এই শহরে জোনাকি নেই
+              সন্ধে হয় হলুদ নিয়নে
+              এই আধারে আলো নেই
+              ভুলের চিঠি আসে পিয়নে
+             কিছু স্মৃতি আজো আপন
+             কিছু ব্যাথা খুবই গোপন
+             কিছু ছবি থাকে নিরলে
+             কিছু কথা কাঁদে আড়ালে
+             কিছু কথা কাঁদে আড়ালে.</item>
+        <item>You can search throughout the entire universe for someone who is more deserving of
+            your love and affection than you are yourself, and that person is not to be found
+            anywhere. You yourself, as much as anybody in the entire universe deserve your love and
+            affection.
+            — Buddha</item>
+        <item>You are the last thought in my mind before I drift off to sleep and the first thought
+            when I wake up each morning.
+            – Unknown</item>
+        <item>— Don’t care or cry for someone who doesn’t give a shit about what you feel. You are
+            losing out the bright side if you are doing so. Guys/girls will come and go out of your
+            life; however, the right one will arrive at the right time for you. Till then, keep calm
+            and enjoy life.</item>
+        <item>You Will Never Live A Perfect Life – Getting In A Relationship Is Like Diving
+            In A Sea, You Can Drown And Whales And Sharks Can Kill You. On The Other Hand,
+            Being Single Is Like Staying Away From That Water, You Will Starve.</item>
+        <item>— Be a real person with a unique attitude. Even if someone doesn’t like your attitude,
+            don’t apologize for it. You are doing what you think is right, and
+            there is no point in apologizing.</item>
+        <item>Your work is going to fill a large part of your life, and the only way to be truly
+            satisfied is to do what you believe is great work. And the only way to do great work is
+            to love what you do. If you haven't found it yet, keep looking. Don't settle.
+            As with all matters of the heart, you'll know when you find it.
+            ― Steve Jobs</item>
+        <item>Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and
+            get on with improving your other innovations.
+            ― Steve Jobs</item>
+        <item>Design is a funny word. Some people think design means how it looks. But of course,
+            if you dig deeper, it's really how it works.
+             ― Steve Jobs</item>
+        <item>To turn really interesting ideas and fledgling technologies into a company that can
+            continue to innovate for years, it requires a lot of disciplines.
+            ― Steve Jobs</item>
+        <item>Remembering that I'll be dead soon is the most important tool I've ever encountered to
+            help me make the big choices in life. Because almost everything - all external
+            expectations, all pride, all fear of embarrassment or failure - these things just fall
+            away in the face of death, leaving only what is truly important.
+            ― Steve Jobs</item>
+    </string-array>
 </resources>
